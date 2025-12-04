@@ -1,4 +1,4 @@
-![Texto descriptivo para accesibilidad](diagrama_de_flujo.jng)
+![Texto descriptivo para accesibilidad](Diagrama_de_flujo.jpeg)
 
 ![Texto descriptivo para accesibilidad](PCB_vistasuperior.png)
 
