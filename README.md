@@ -1,4 +1,4 @@
-
+## Diagrama de flujo del procesamiento de datos
 
 ![Texto descriptivo para accesibilidad](Diagrama_de_flujo.jpeg)
 
