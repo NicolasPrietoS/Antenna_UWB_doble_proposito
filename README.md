@@ -2,7 +2,7 @@
 
 ![Texto descriptivo para accesibilidad](Diagrama_de_flujo.jpeg)
 
-## PCB realziada en kicad
+## PCB realizada en kicad
 
 ![Texto descriptivo para accesibilidad](PCB_vistasuperior.png)
 
